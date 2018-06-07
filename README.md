@@ -1,1 +1,1 @@
-## Estudo de Event Sourcing com bancos NoSQL, na linguagem Ruby.
+## Event Sourcing studyings with Ruby and NoSQL technologies
